@@ -48,20 +48,20 @@ Technology stack: JavaScript(ES6), Node.js, NPM, ESLint (Airbnb), Git, GitHub, G
 
 ## Education
 
-**College certificate in Construction Engineering**
+**College certificate in Construction Engineering**  
 PT KiSumDu  
 September 2004 - March 2008
 
-**Complete JavaScript Course**
-Udemy (Jonas Schmedtmann)
+**Complete JavaScript Course**  
+Udemy (Jonas Schmedtmann)  
 April 2021 - June 2021
 
-**Web Desing Intensive Course**
-WDI Desing School
+**Web Desing Intensive Course**  
+WDI Desing School  
 February 2020 - May 2020
 
-**Intensive Course "Advanced HTML and CSS"**
-HTML Academy
+**Intensive Course "Advanced HTML and CSS"**  
+HTML Academy  
 May 2017 - June 2017
 
 ## Skills
